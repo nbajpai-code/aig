@@ -201,3 +201,13 @@ Reviewing historical AI failures highlights the necessity of strict governance:
 *   📚 **[NIST AI Resource Center (AIRC)](https://www.nist.gov/artificial-intelligence)**: Central repository of playbooks, frameworks, and government safety guidelines.
 *   📚 **[IAPP AI Governance Center](https://iapp.org/about/ai-governance-center/)**: The primary industry association portal for templates, certification updates, and research alerts.
 *   📚 **[Center for Humane Technology](https://www.humanetech.com/)**: Articles, courses, and resources focused on building technology aligned with human interests.
+
+### F. Recommended Books
+*   📘 **"IAPP AIGP Study Guide"** by Peter H. Gregory: The official Wiley preparation textbook covering the complete IAPP AIGP Body of Knowledge, exam domains, and study questions.
+*   📘 **"AI Ethics"** by Mark Coeckelbergh: An essential MIT Press overview of ethical topics including system transparency, bias, and accountability models.
+*   📘 **"The Alignment Problem: Machine Learning and Human Values"** by Brian Christian: A detailed exploration of the technical challenges involved in ensuring AI systems behave in accordance with human expectations and ethics.
+*   📘 **"Weapons of Math Destruction"** by Cathy O'Neil: A seminal book on how mathematical algorithms and big data reinforce inequality and bias in automated profiles.
+*   📘 **"Atlas of AI"** by Kate Crawford: A deep analysis of the physical, political, and material costs of building machine learning systems globally.
+*   📘 **"Algorithms of Oppression"** by Safiya Umoja Noble: A focus on how modern search engines and web interfaces reflect and amplify societal biases.
+*   📘 **"Human Compatible: Artificial Intelligence and the Problem of Control"** by Stuart Russell: A foundational text from a pioneer in AI regarding safe deployment and corporate alignment limits.
+*   📘 **"The Ethical Algorithm: The Science of Socially Aware Algorithm Design"** by Michael Kearns and Aaron Roth: A technical dive into mathematically programming fairness, privacy, and social awareness directly into algorithms.
