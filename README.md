@@ -171,7 +171,33 @@ Reviewing historical AI failures highlights the necessity of strict governance:
 
 ## 6. Curated Reading & Resources
 
-*   📚 **[Stanford Human-Centered AI (HAI) Index Report](https://hai.stanford.edu/ai-index-report)**: The definitive annual report covering AI advancements, investments, ethics, and policy trends.
-*   📚 **[NIST AI Resource Center (AIRC)](https://www.nist.gov/artificial-intelligence)**: Repository of guidelines, playbooks, and federal research on AI safety.
-*   📚 **[IAPP AI Governance Center](https://iapp.org/resources/topics/ai-governance/)**: Updates on certifications (AIGP), laws, webinars, and policy templates.
-*   📚 **[Center for Humane Technology](https://www.humanetech.com/)**: Essays and podcasts on aligning technology with human values.
+### A. Popular Podcasts
+*   🎙️ **[The AI Policy Podcast (CSIS)](https://www.csis.org/podcasts/ai-policy-podcast)**: Deep dives into AI regulation, safety requirements, and international policy shifts.
+*   🎙️ **[AIGN (AI Governance Network) Podcast](https://www.aigovernancenetwork.com/)**: Focuses specifically on ethical frameworks, corporate compliance, and auditing.
+*   🎙️ **[ModelOp: Good Decisions](https://modelop.com/resources/podcast/)**: Practical discussions on operationalizing model risk governance and managing enterprise AI at scale.
+*   🎙️ **[RegulatingAI](https://regulatingai.org/podcast/)**: Interviews with global policy makers, researchers, and corporate risk professionals.
+*   🎙️ **[Hard Fork (NYT)](https://www.nytimes.com/column/hard-fork)**: Broad, high-impact stories covering the tech industry with a heavy focus on AI safety, alignment, and governance.
+
+### B. Recommended YouTube Channels
+*   📺 **[Prabh Nair](https://www.youtube.com/@PrabhNair1)**: Highly recommended for certification-focused tutorials on ISO/IEC 42001 and NIST AI RMF implementation guides.
+*   📺 **[IBM Technology](https://www.youtube.com/user/ibmmedia)**: Clear diagrams and educational lectures on trustworthy AI, model bias, lineage, and data privacy.
+*   📺 **[BABL AI Inc.](https://www.youtube.com/@bablaipodcast)**: Focuses on ethical audits, algorithmic harm assessments, and career paths in AI governance.
+*   📺 **[Stanford HAI](https://www.youtube.com/c/StanfordHAI)**: Keynotes, research lectures, and policy panels from leading Stanford academics.
+
+### C. LinkedIn Influencers to Follow
+*   🔗 **[Ethan Mollick](https://www.linkedin.com/in/ethanmollick/)**: Wharton professor writing about the real-world, organizational, and educational impacts of generative AI.
+*   🔗 **[Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/)**: Former Chief Decision Scientist at Google, posting on AI risk management, model selection, and decision intelligence.
+*   🔗 **[Rumman Chowdhury](https://www.linkedin.com/in/rumman/)**: Pioneer in algorithmic bias testing, responsible AI leader, and CEO of Humane Intelligence.
+*   🔗 **[Dr. Joy Buolamwini](https://www.linkedin.com/in/joy-buolamwini-048705b0/)**: Founder of the Algorithmic Justice League and author on biometric bias and civil rights in AI.
+*   🔗 **[Reid Blackman](https://www.linkedin.com/in/reidblackman/)**: Author of *Ethical Machines* and advisor on corporate AI ethics and risk frameworks.
+
+### D. Udemy & Professional Courses
+*   🎓 **[Master AI Governance: NIST AI RMF & ISO 42001](https://www.udemy.com/)**: Search Udemy for comprehensive implementation courses mapping both frameworks for audit readiness.
+*   🎓 **[IAPP AIGP Exam Prep Masterclass](https://www.udemy.com/)**: Preparation bootcamps covering the official IAPP Body of Knowledge (BoK) for AIGP candidates.
+*   🎓 **[PECB ISO/IEC 42001 Lead Implementer / Auditor](https://pecb.com/)**: Formal, tutor-led certification training pathways for professional audit designations.
+
+### E. Reference Publications & Portals
+*   📚 **[Stanford Human-Centered AI (HAI) Index Report](https://hai.stanford.edu/ai-index-report)**: The definitive annual report covering global AI advancements, policy trends, and investments.
+*   📚 **[NIST AI Resource Center (AIRC)](https://www.nist.gov/artificial-intelligence)**: Central repository of playbooks, frameworks, and government safety guidelines.
+*   📚 **[IAPP AI Governance Center](https://iapp.org/about/ai-governance-center/)**: The primary industry association portal for templates, certification updates, and research alerts.
+*   📚 **[Center for Humane Technology](https://www.humanetech.com/)**: Articles, courses, and resources focused on building technology aligned with human interests.
