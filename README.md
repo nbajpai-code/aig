@@ -69,9 +69,28 @@ Developed by the International Association of Privacy Professionals (IAPP), the 
     5.  **Organizational Design**: Building cross-functional AI Governance committees and drafting policies.
 *   **Preparation Strategy**: Study the IAPP AIGP Body of Knowledge, read the official textbook, and review the NIST AI RMF.
 
-### B. ISACA CET (Emerging Technology Certificate - AI Advisory)
-Focuses on evaluating, advising on, and implementing ethical AI systems in enterprises.
-*   **Key Areas**: Frameworks, lifecycle controls, model training validation, and threat modeling.
+### B. ISACA AI Governance & Audit Portfolio
+ISACA provides a robust ecosystem for auditing, advising on, and managing AI systems. It is structured into foundational IT/data credentials and advanced AI specializations:
+
+#### 1. Advanced AI Specializations
+*   **ISACA Advanced in AI Audit (AAIA™)**: 
+    *   *Focus*: Validates the ability to audit complex AI pipelines, evaluate training set integrity, audit "black-box" model outputs, and ensure compliance.
+    *   *Pre-requisite*: Designed for experienced auditors (CISA holders or equivalent).
+*   **ISACA Advanced in AI Risk (AAIR™)**: 
+    *   *Focus*: Validates the skills to establish AI risk programs, perform model risk impact assessments, and align operations with the NIST AI RMF.
+    *   *Pre-requisite*: Designed for risk and governance professionals (CRISC/CGEIT holders).
+*   **ISACA Advanced in AI Security Management (AAISM™)**:
+    *   *Focus*: Validates competence in protecting models against dynamic security threats (adversarial evasion, data poisoning) and enforcing usage security policies.
+
+#### 2. Core Foundational Prerequisites
+*   **CISA (Certified Information Systems Auditor)**: The industry gold standard for auditing. It provides the essential general controls and audit framework methodology required before specializing in AI audit (AAIA).
+*   **CRISC (Certified in Risk and Information Systems Control)**: Formally updated to incorporate machine learning and AI lifecycle risk controls.
+*   **CGEIT (Certified in the Governance of Enterprise IT)**: Essential for high-level governance, aligning corporate IT governance structures (such as COBIT) with emerging AI regulations.
+*   **CDPSE (Certified Data Privacy Solutions Engineer)**: Focuses on privacy-by-design, which is critical for securing training datasets and complying with user data protection policies (GDPR/CCPA).
+
+#### 3. Entry-Level Certificates
+*   **ISACA Certified in Emerging Technology (CET™)**: A foundational credential covering cloud, IoT, blockchain, and basic AI Advisory guidelines.
+*   **ISACA AI Fundamentals Certificate**: An entry-level knowledge certificate covering basic algorithms, ethical concepts, and usage requirements.
 
 ### C. ISO/IEC 42001 Lead Auditor & Lead Implementer
 Offered by training organizations (like PECB or BSI).
